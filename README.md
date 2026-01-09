@@ -3,8 +3,8 @@ Built on ASP.NET Core Web API and React Js
 
 **Features:**
 
-New User Registration
-Existing User Login
+**New User Registration
+**Existing User Login
 
 ****Logged in User can ****
   a)Add new todo task
